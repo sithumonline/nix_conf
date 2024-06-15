@@ -94,15 +94,20 @@
 	fish       
 
 	#common utilities
-        vim
-        wget
-        htop
-        screenfetch
+  	vim
+  	wget
+  	htop
+  	screenfetch
 
-        #dev
-        volta # for install node, yarn and npm
-        git
-	go
+  	#dev
+  	#volta # for install node, yarn and npm # issue with dynamically linked executable
+  	git
+  	go
+  	nodejs_22
+
+  	#ide
+  	jetbrains.goland
+  	vscode
   ];
 
   # Some programs need SUID wrappers, can be configured further or are

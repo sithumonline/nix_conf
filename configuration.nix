@@ -104,6 +104,9 @@
   	git
   	go
   	nodejs_22
+    corepack_22 # yarn pnpm
+    postman
+    python3
 
   	#ide
   	jetbrains.goland
